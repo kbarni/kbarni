@@ -3,7 +3,8 @@ Researcher in image processing at the IMS Bordeaux Laboratory, my main research 
 This is the place for the open-source projects I build, mostly in my free time. These range from simple exercices to more complex libraries.
 
 Some of the tools that I use:
-- C/C++/Python for programming
+- C++/Python for programming
+- Qt/QML for graphical user interfaces and mobile development
 - OpenCV library
 - Deep neural networks
 - GPU programming with CUDA
